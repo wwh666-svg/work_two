@@ -1,0 +1,17 @@
+/* Add your custom styles here */
+.container {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+textarea {
+  height: 400px; /* Adjust as needed */
+}
+
+.preview {
+  border: 1px solid #ccc;
+  padding: 10px;
+  min-height: 400px; /* Adjust as needed */
+  overflow-y: auto;
+}
